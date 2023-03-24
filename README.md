@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiReichart&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-🏢 DevOps Engineer @ T-Systems  
+🏢 Cloud Architect @ OpenSovereignCloud - T-Systems  
 
 
 <!--
